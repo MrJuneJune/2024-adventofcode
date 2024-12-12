@@ -5,6 +5,7 @@ Alex Xu told me to do this for fun and see how closely it is to real job so I di
 ## Day 1
 
 - Just reading a file, sorting it, and calculating the value. I didn't want to re-write quick sort so I did use stdlib.
+- Re-writing a hashmap in C is somethign tho lol..
 
 **Result**:
 
