@@ -10,3 +10,12 @@ Alex Xu told me to do this for fun and see how closely it is to real job so I di
 **Result**:
 
 ![Result](./day1/advent-code-day1-result.png)
+
+## Day 2
+
+- List stuff.
+- I can't seem to get O(N) solution to work so I did N^2. I think it has to do with the edge cases at the ends but whatever
+
+**Result**:
+
+![Result](./day2/day2-aoc.png)
